@@ -1,0 +1,9 @@
+{
+  "bracket_error_code": "E_BAD_BRACKETS",
+  "amount": 320,
+  "brackets": [
+    {"up": 100, "rate": 5},
+    {"up": 300, "rate": 3},
+    {"up": 1000, "rate": 2}
+  ]
+}
